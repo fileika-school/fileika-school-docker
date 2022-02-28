@@ -1,4 +1,4 @@
 [submodule "nextjs-nexus"]
 	path = nextjs-nexus
-	url = https://github.com/fileika-school/fileika.school
+	url = git@github.com:fileika-school/fileika.school.git
 	branch = master
